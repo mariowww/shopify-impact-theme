@@ -12,6 +12,14 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "trustoo_io_reviews_star_rating_widget_7WMUgA": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/star-rating-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+            "star_size": 20,
+            "font_size": 16,
+            "block_aligment": "left"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -96,6 +104,7 @@
         }
       },
       "block_order": [
+        "trustoo_io_reviews_star_rating_widget_7WMUgA",
         "title",
         "liquid_rcqkaA",
         "price",
