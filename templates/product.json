@@ -80,6 +80,13 @@
             "title": "Description",
             "content": "<p><strong>Case and Strap Dimensions </strong>- 41mm case x 9mm strap of 22mm in width.</p><p><strong>Premium Stainless Steel</strong> - Crafted from Premium 316L stainless steel for elegance and exceptional durability.</p><p><strong>Precision Movement - </strong>Powered by Japanese Quartz technology, provides reliable, low-maintenance timekeeping.</p><p><strong>Adjustable Fit</strong> - Our watches are adjustable for any wrist with our sizing toolkit.</p><p><strong>Glass Type</strong> - Our Sapphire Crystal Glass provides ultimate scratch resistance, keeping your timepiece flawless for years.</p><p><strong>Water-Resistant (3ATM</strong>)- Designed to withstand everyday splashes and rain, keeping your timepiece safe and functional.</p>"
           }
+        },
+        "collapsible_text_XxFJmQ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Shipping & Returns",
+            "content": "<p><strong>Free Express Shipping on orders over €50</strong><br/>Choose between <strong>Priority or Standard</strong> shipping at checkout. Duties and taxes are included.</p><p><strong>Shipping Times:</strong></p><ul><li><strong>Europe & U.S.:</strong> 4-8 business days</li><li><strong>Rest of the World:</strong> 5-10 business days</li></ul><p><strong>Returns</strong><br/>We offer a <strong>100-day return policy</strong> on all orders, even if used. To start a return, contact us <a href=\"https://hugopdgr.com/pages/contact\" title=\"Contact\">here</a></p>"
+          }
         }
       },
       "block_order": [
@@ -93,7 +100,8 @@
         "payment_terms",
         "separator",
         "description",
-        "collapsible_text_RUDF4x"
+        "collapsible_text_RUDF4x",
+        "collapsible_text_XxFJmQ"
       ],
       "settings": {
         "full_width": true,
