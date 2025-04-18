@@ -26,7 +26,7 @@
         "heading_inmXT3": {
           "type": "heading",
           "settings": {
-            "text": "H O R A E",
+            "text": "H Õ R A E",
             "heading_tag": "h6"
           }
         }
@@ -38,7 +38,7 @@
       ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "autoplay": true,
         "video_size": "md",
         "video": "shopify://files/videos/0418 (1).mov",
