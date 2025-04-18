@@ -12,10 +12,11 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "disabled": true,
-          "settings": {}
+        "liquid_rcqkaA": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
         },
         "title": {
           "type": "title",
@@ -23,34 +24,10 @@
             "heading_tag": "h2"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
         "price": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
-          }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
           }
         },
         "variant_picker": {
@@ -63,6 +40,10 @@
             "size_chart_page": ""
           }
         },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -72,25 +53,39 @@
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
+            "atc_button_background": "#000000",
+            "atc_button_text_color": "#ffffff",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "collapse_content": false
           }
         }
       },
       "block_order": [
-        "vendor",
+        "liquid_rcqkaA",
         "title",
-        "badges",
         "price",
-        "rating",
+        "variant_picker",
+        "badges",
+        "quantity_selector",
+        "buy_buttons",
         "payment_terms",
         "separator",
-        "description",
-        "variant_picker",
-        "quantity_selector",
-        "buy_buttons"
+        "description"
       ],
       "settings": {
         "full_width": true,
