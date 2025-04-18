@@ -40,12 +40,44 @@
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": true,
-        "video_size": "lg",
+        "video_size": "md",
         "video": "shopify://files/videos/0418 (1).mov",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
+      }
+    },
+    "rich_text_hcEREx": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_PcfNf7": {
+          "type": "subheading",
+          "settings": {
+            "text": "OUR"
+          }
+        },
+        "heading_Ct8zVE": {
+          "type": "heading",
+          "settings": {
+            "text": "WATCHES",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PcfNf7",
+        "heading_Ct8zVE"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "slideshow": {
@@ -89,21 +121,6 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "SALES UP TO 50% OFF",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 9,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -115,8 +132,8 @@
         "products_count": 6,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
-        "subheading": "OUR",
-        "title": "WATCHES",
+        "subheading": "",
+        "title": "",
         "content": "",
         "link_url": "",
         "link_text": "View all",
@@ -496,8 +513,8 @@
   },
   "order": [
     "video_NJBXyT",
+    "rich_text_hcEREx",
     "slideshow",
-    "scrolling-text",
     "featured-collection",
     "collection-list",
     "featured_collection_nCTVVL",
