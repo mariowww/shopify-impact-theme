@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "WELCOME TO HORAE",
+            "url": ""
+          }
+        },
+        "message_xgzHJy": {
+          "type": "message",
+          "settings": {
+            "text": "SALES UP TO 50% OFF",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_xgzHJy"
       ],
       "settings": {
         "enable_sticky": false,
