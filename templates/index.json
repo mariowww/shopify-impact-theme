@@ -453,48 +453,6 @@
         "logo_item_border": ""
       }
     },
-    "hot-spots": {
-      "type": "hot-spots",
-      "blocks": {
-        "1664424434f5b7d0e0-0": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 40,
-            "vertical_position": 35,
-            "horizontal_position_mobile": 45,
-            "vertical_position_mobile": 70,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424434f5b7d0e0-0"
-      ],
-      "settings": {
-        "full_width": true,
-        "image": "shopify://shop_images/pinterestdownloader.com-1741780318.121262.jpg",
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start text-start",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
-      }
-    },
     "multiple-images-with-text": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -631,122 +589,6 @@
         "input_text_color": ""
       }
     },
-    "feature-chart": {
-      "type": "feature-chart",
-      "blocks": {
-        "16644246508f6fa13a-0": {
-          "type": "headings",
-          "settings": {
-            "heading_1": "Heading 1",
-            "heading_2": "Heading 2",
-            "heading_3": "Heading 3",
-            "heading_4": "Heading 4",
-            "heading_5": "",
-            "heading_6": "",
-            "heading_7": "",
-            "heading_8": "",
-            "heading_9": "",
-            "heading_10": "",
-            "heading_11": "",
-            "heading_12": "",
-            "heading_13": "",
-            "heading_14": "",
-            "heading_15": "",
-            "heading_16": "",
-            "heading_17": "",
-            "heading_18": "",
-            "heading_19": "",
-            "heading_20": ""
-          }
-        },
-        "16644246508f6fa13a-1": {
-          "type": "values",
-          "settings": {
-            "product": "",
-            "value_1": "<p>Yes</p>",
-            "value_2": "<p>Yes</p>",
-            "value_3": "<p>No</p>",
-            "value_4": "<p>No</p>",
-            "value_5": "",
-            "value_6": "",
-            "value_7": "",
-            "value_8": "",
-            "value_9": "",
-            "value_10": "",
-            "value_11": "",
-            "value_12": "",
-            "value_13": "",
-            "value_14": "",
-            "value_15": "",
-            "value_16": "",
-            "value_17": "",
-            "value_18": "",
-            "value_19": "",
-            "value_20": "",
-            "view_button_background": "",
-            "view_button_text_color": ""
-          }
-        },
-        "16644246508f6fa13a-2": {
-          "type": "values",
-          "settings": {
-            "product": "",
-            "value_1": "<p>No</p>",
-            "value_2": "<p>Yes</p>",
-            "value_3": "<p>Yes</p>",
-            "value_4": "<p>No</p>",
-            "value_5": "",
-            "value_6": "",
-            "value_7": "",
-            "value_8": "",
-            "value_9": "",
-            "value_10": "",
-            "value_11": "",
-            "value_12": "",
-            "value_13": "",
-            "value_14": "",
-            "value_15": "",
-            "value_16": "",
-            "value_17": "",
-            "value_18": "",
-            "value_19": "",
-            "value_20": "",
-            "view_button_background": "",
-            "view_button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "16644246508f6fa13a-0",
-        "16644246508f6fa13a-1",
-        "16644246508f6fa13a-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "subheading": "Compare",
-        "title": "Product specification",
-        "content": "<p>Give your customers useful information about your products and showcase differences between them.</p>",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "max_rows": 5,
-        "view_all_text": "View all",
-        "view_less_text": "View less",
-        "view_product": "View",
-        "viewing_product": "",
-        "show_product_swatch": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "chart_background": "",
-        "chart_text_color": "",
-        "chart_true_false_color": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -754,7 +596,7 @@
           "type": "item",
           "settings": {
             "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "content": "<p>Yes, we ship all over the world. We currently ship to 65+ countries. Shipping costs will apply, and will be added at <strong>checkout</strong>. Currently Free Shipping applies on orders over 40$<br/><br/>We run discounts and promotions all year, so stay tuned for exclusive deals on shipping.</p>"
           }
         },
         "166442457738b23caf-1": {
@@ -798,6 +640,31 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "174498713420fa992b": {
+      "type": "apps",
+      "blocks": {
+        "trustoo_io_reviews_text_carousel_46iFLr": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/text-carousel/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_text_carousel_46iFLr"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -811,10 +678,9 @@
     "media-grid",
     "before-after-image",
     "press",
-    "hot-spots",
     "multiple-images-with-text",
     "featured-product",
-    "feature-chart",
-    "faq"
+    "faq",
+    "174498713420fa992b"
   ]
 }
