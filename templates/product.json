@@ -12,16 +12,16 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "liquid_rcqkaA": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .stock-warning {\n    display: flex;\n    align-items: center;\n    font-size: 16px;\n    color: #e2671f;\n    font-weight: 500;\n    gap: 6px;\n    margin-top: 10px;\n  }\n\n  .pulsing-dot {\n    width: 8px;\n    height: 8px;\n    background-color: #e2671f;\n    border-radius: 50%;\n    animation: pulse 1.5s infinite ease-in-out;\n  }\n\n  @keyframes pulse {\n    0% { opacity: 0.4; transform: scale(1); }\n    50% { opacity: 1; transform: scale(1.4); }\n    100% { opacity: 0.4; transform: scale(1); }\n  }\n</style>\n\n<div class=\"stock-warning\">\n  <span class=\"pulsing-dot\"></span>\n  Only a few watches left\n</div>"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
+          }
+        },
+        "liquid_rcqkaA": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .stock-warning {\n    display: flex;\n    align-items: center;\n    font-size: 16px;\n    color: #e2671f;\n    font-weight: 500;\n    gap: 6px;\n    margin-top: 10px;\n  }\n\n  .pulsing-dot {\n    width: 8px;\n    height: 8px;\n    background-color: #e2671f;\n    border-radius: 50%;\n    animation: pulse 1.5s infinite ease-in-out;\n  }\n\n  @keyframes pulse {\n    0% { opacity: 0.4; transform: scale(1); }\n    50% { opacity: 1; transform: scale(1.4); }\n    100% { opacity: 0.4; transform: scale(1); }\n  }\n</style>\n\n<div class=\"stock-warning\">\n  <span class=\"pulsing-dot\"></span>\n  Only a few watches left\n</div>"
           }
         },
         "price": {
@@ -76,8 +76,8 @@
         }
       },
       "block_order": [
-        "liquid_rcqkaA",
         "title",
+        "liquid_rcqkaA",
         "price",
         "variant_picker",
         "badges",
