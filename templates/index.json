@@ -603,13 +603,27 @@
           "type": "item",
           "settings": {
             "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "content": "<p>We are currently experiencing a very high order volume, all orders will be dispatched within <strong>24-48 hours</strong>, and shipping will take around <strong>3-5 business days</strong> depending on your location. We ship to all countries except some Islands.<br/><br/>Delivery details will be provided<strong>during checkout</strong>& in your<strong>confirmation email</strong>.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
+            "title": "Do you ship to my country?",
+            "content": "<p>We excluded countries we can not ship to, from checking out. This means if you are able to check-out, we can ship to your country</p>"
+          }
+        },
+        "item_GTEURz": {
+          "type": "item",
+          "settings": {
+            "title": "What are the return rules?",
+            "content": "<p>You can return a product for any reason <strong>within 14-days </strong>guaranteed. No questions asked.<br/><br/>We do not charge a return or handling fee<br/><br/>The customer only have to bare the return label</p>"
+          }
+        },
+        "item_kXYW3A": {
+          "type": "item",
+          "settings": {
+            "title": "Other questions?",
             "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
         }
@@ -617,7 +631,9 @@
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_GTEURz",
+        "item_kXYW3A"
       ],
       "settings": {
         "full_width": false,
@@ -625,8 +641,8 @@
         "title": "FAQ",
         "content": "<p>Use this text to share information about your product or shipping policies.</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Our customer support is available Monday to Friday 24 hours.",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
