@@ -33,7 +33,8 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video": "shopify://files/videos/0302_b8a09791-4e8b-4f94-bc8a-4547d8c42ed4.mov",
+        "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
