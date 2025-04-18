@@ -94,6 +94,13 @@
             "title": "2 Year Guarantee",
             "content": "<p>We’re confident in the quality of every Horae  timepiece. </p><p>Each watch comes with a <strong>2-year guarantee</strong>, covering any manufacturing defects or craftsmanship issues. If there’s a problem, we’ll repair or replace it <strong>free of charge</strong> within two years from purchase.</p>"
           }
+        },
+        "collapsible_text_GFDUaD": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Beware of Imitations",
+            "content": "<p>We've received reports of unauthorized stores deceiving customers with counterfeit products. To ensure you're getting an authentic Horae piece, only purchase from our official website, horaeathens.com</p><p>We are actively pursuing legal action to shut down these stores and protect our customers. Rest assured that we are committed to safeguarding your interests and ensuring you receive genuine products.</p>"
+          }
         }
       },
       "block_order": [
@@ -109,7 +116,8 @@
         "description",
         "collapsible_text_RUDF4x",
         "collapsible_text_XxFJmQ",
-        "collapsible_text_hMfWVE"
+        "collapsible_text_hMfWVE",
+        "collapsible_text_GFDUaD"
       ],
       "settings": {
         "full_width": true,
