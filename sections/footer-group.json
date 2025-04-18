@@ -95,6 +95,14 @@
           "settings": {
             "title": "About",
             "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "text_nyFFab": {
+          "type": "text",
+          "settings": {
+            "title": "About our store",
+            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
             "enable_follow_on_shop": true
           }
         }
@@ -102,7 +110,8 @@
       "block_order": [
         "newsletter",
         "links",
-        "text"
+        "text",
+        "text_nyFFab"
       ],
       "settings": {
         "show_social_media": true,
