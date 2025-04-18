@@ -211,6 +211,70 @@
         "heading_gradient": ""
       }
     },
+    "featured_collection_nCTVVL": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "jewelry",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "OUR",
+        "title": "JEWELRY",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "video_NJBXyT": {
+      "type": "video",
+      "blocks": {
+        "play_dntxxy": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_MaEN8V": {
+          "type": "heading",
+          "settings": {
+            "text": "AEGEAN ELEGANCE",
+            "heading_tag": "h1"
+          }
+        },
+        "heading_inmXT3": {
+          "type": "heading",
+          "settings": {
+            "text": "ON YOUR HAND",
+            "heading_tag": "h6"
+          }
+        }
+      },
+      "block_order": [
+        "play_dntxxy",
+        "heading_MaEN8V",
+        "heading_inmXT3"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "lg",
+        "video": "shopify://files/videos/0418 (1).mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "timeline_JrYhLA": {
       "type": "timeline",
       "blocks": {
@@ -428,45 +492,6 @@
         "product_card_mobile_text_color": "",
         "background_dots": "#ffffff"
       }
-    },
-    "video_NJBXyT": {
-      "type": "video",
-      "blocks": {
-        "play_dntxxy": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_MaEN8V": {
-          "type": "heading",
-          "settings": {
-            "text": "AEGEAN ELEGANCE",
-            "heading_tag": "h1"
-          }
-        },
-        "heading_inmXT3": {
-          "type": "heading",
-          "settings": {
-            "text": "ON YOUR HAND",
-            "heading_tag": "h6"
-          }
-        }
-      },
-      "block_order": [
-        "play_dntxxy",
-        "heading_MaEN8V",
-        "heading_inmXT3"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "lg",
-        "video": "shopify://files/videos/0418 (1).mov",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
     }
   },
   "order": [
@@ -475,11 +500,12 @@
     "scrolling-text",
     "featured-collection",
     "collection-list",
+    "featured_collection_nCTVVL",
+    "video_NJBXyT",
     "timeline_JrYhLA",
     "impact-text",
     "faq",
     "174498713420fa992b",
-    "shop_the_look_ejcTNF",
-    "video_NJBXyT"
+    "shop_the_look_ejcTNF"
   ]
 }
