@@ -93,16 +93,16 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "OUR MISSION",
+            "content": "<p></p><p>To forge chronographic relics from the Mediterranean’s marrow—steel baptized in Meltemi winds, designs carved by Doric shadows. Horae exists not to tell time, but to<em>enslave</em>it, binding eras to wrists as Aegean tides bind ships to destiny.</p><p></p><p><strong>Recommended By 3 000+ Users</strong></p><p>Across continents, wrists bearing Horae’s steel form a silent dynasty—discerning sovereigns who’ve sworn fealty not to trends, but to the Aegean’s unbroken covenant. Each timepiece, a reliquary; each wearer, a curator of legacy.</p><p><strong>Horae’s Covenant:</strong></p><p><br/>Steel forged without dominion over earth or beast—each timepiece a relic of stoic geometry, untouched by exploitation’s vulgar hand. The Aegean’s breath demands nothing less.</p><p><em>Where ethics are not proclaimed, but enshrined.</em></p>",
             "enable_follow_on_shop": false
           }
         },
         "text_nyFFab": {
           "type": "text",
           "settings": {
-            "title": "About our store",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "",
+            "content": "",
             "enable_follow_on_shop": true
           }
         }
