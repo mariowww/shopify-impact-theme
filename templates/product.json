@@ -87,6 +87,13 @@
             "title": "Shipping & Returns",
             "content": "<p><strong>Free Express Shipping on orders over €50</strong><br/>Choose between <strong>Priority or Standard</strong> shipping at checkout. Duties and taxes are included.</p><p><strong>Shipping Times:</strong></p><ul><li><strong>Europe & U.S.:</strong> 4-8 business days</li><li><strong>Rest of the World:</strong> 5-10 business days</li></ul><p><strong>Returns</strong><br/>We offer a <strong>100-day return policy</strong> on all orders, even if used. To start a return, contact us <a href=\"https://hugopdgr.com/pages/contact\" title=\"Contact\">here</a></p>"
           }
+        },
+        "collapsible_text_hMfWVE": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "2 Year Guarantee",
+            "content": "<p>We’re confident in the quality of every Horae  timepiece. </p><p>Each watch comes with a <strong>2-year guarantee</strong>, covering any manufacturing defects or craftsmanship issues. If there’s a problem, we’ll repair or replace it <strong>free of charge</strong> within two years from purchase.</p>"
+          }
         }
       },
       "block_order": [
@@ -101,7 +108,8 @@
         "separator",
         "description",
         "collapsible_text_RUDF4x",
-        "collapsible_text_XxFJmQ"
+        "collapsible_text_XxFJmQ",
+        "collapsible_text_hMfWVE"
       ],
       "settings": {
         "full_width": true,
