@@ -15,8 +15,8 @@
         "trustoo_io_reviews_star_rating_widget_7WMUgA": {
           "type": "shopify://apps/trustoo-io-reviews/blocks/star-rating-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
           "settings": {
-            "star_size": 20,
-            "font_size": 16,
+            "star_size": 12,
+            "font_size": 12,
             "block_aligment": "left"
           }
         },
@@ -146,9 +146,9 @@
         "stack_products": false,
         "show_progress_bar": true,
         "products_per_row_mobile": "1",
-        "products_per_row_desktop": 5,
+        "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "You may also like",
+        "title": "People also liked:",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -158,10 +158,27 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "newsletter_6YNB7U": {
+      "type": "newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": true,
+        "title": "Newsletter",
+        "content": "<p>Get exclusive access to new product releases, special offers and restocks. Become a member of The Horae Community here:</p>",
+        "button_text": "Subscribe",
+        "subtext": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "newsletter_6YNB7U"
   ]
 }

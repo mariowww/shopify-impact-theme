@@ -101,7 +101,7 @@
         "text_nyFFab": {
           "type": "text",
           "settings": {
-            "title": "",
+            "title": "Follow us on Shop",
             "content": "",
             "enable_follow_on_shop": true
           }
