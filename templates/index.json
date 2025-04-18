@@ -237,9 +237,20 @@
         "slide_nMrMG4": {
           "type": "slide",
           "settings": {
-            "navigation_label": "1966",
-            "subheading": "Subheading",
-            "title": "Heading",
+            "image": "shopify://shop_images/pinterestdownloader.com-1741780215.729517.jpg",
+            "navigation_label": "2023",
+            "subheading": "THE FIRST BIRTH",
+            "title": "THE UNVEILING",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "slide_HPwH8L": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/pinterestdownloader.com-1741026822.887165.jpg",
+            "navigation_label": "",
+            "subheading": "HORAE",
+            "title": "THE ASCENSION",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
@@ -247,7 +258,8 @@
       "block_order": [
         "slide_A3tA9r",
         "slide_NTBBzd",
-        "slide_nMrMG4"
+        "slide_nMrMG4",
+        "slide_HPwH8L"
       ],
       "settings": {
         "full_width": true,
