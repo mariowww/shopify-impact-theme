@@ -217,8 +217,8 @@
         "collection": "jewelry",
         "products": [],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
+        "stack_products": false,
+        "show_progress_bar": true,
         "products_count": 6,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
@@ -503,9 +503,9 @@
     "featured_collection_nCTVVL",
     "video_NJBXyT",
     "timeline_JrYhLA",
+    "174498713420fa992b",
     "impact-text",
     "faq",
-    "174498713420fa992b",
     "shop_the_look_ejcTNF"
   ]
 }
