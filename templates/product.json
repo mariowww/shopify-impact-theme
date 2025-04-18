@@ -69,16 +69,8 @@
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
-            "collapse_content": false
-          }
-        },
-        "collapsible_text_RUDF4x": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Description",
-            "content": "<p><strong>Case and Strap Dimensions </strong>- 41mm case x 9mm strap of 22mm in width.</p><p><strong>Premium Stainless Steel</strong> - Crafted from Premium 316L stainless steel for elegance and exceptional durability.</p><p><strong>Precision Movement - </strong>Powered by Japanese Quartz technology, provides reliable, low-maintenance timekeeping.</p><p><strong>Adjustable Fit</strong> - Our watches are adjustable for any wrist with our sizing toolkit.</p><p><strong>Glass Type</strong> - Our Sapphire Crystal Glass provides ultimate scratch resistance, keeping your timepiece flawless for years.</p><p><strong>Water-Resistant (3ATM</strong>)- Designed to withstand everyday splashes and rain, keeping your timepiece safe and functional.</p>"
+            "collapse_content": true
           }
         },
         "collapsible_text_XxFJmQ": {
@@ -114,7 +106,6 @@
         "payment_terms",
         "separator",
         "description",
-        "collapsible_text_RUDF4x",
         "collapsible_text_XxFJmQ",
         "collapsible_text_hMfWVE",
         "collapsible_text_GFDUaD"
