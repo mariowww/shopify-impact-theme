@@ -39,7 +39,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": true,
-        "video_size": "auto",
+        "video_size": "lg",
         "video": "shopify://files/videos/0302_b8a09791-4e8b-4f94-bc8a-4547d8c42ed4.mov",
         "external_video_url": "",
         "text_color": "#ffffff",
@@ -380,6 +380,7 @@
         "item-3",
         "29246d34-c6e0-4373-84f6-b15e57736a00"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "reduce_width": false,
@@ -391,6 +392,7 @@
     },
     "before-after-image": {
       "type": "before-after-image",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "",
@@ -457,34 +459,10 @@
         "1664424434f5b7d0e0-0": {
           "type": "item",
           "settings": {
-            "horizontal_position": 24,
-            "vertical_position": 70,
-            "horizontal_position_mobile": 24,
+            "horizontal_position": 40,
+            "vertical_position": 35,
+            "horizontal_position_mobile": 45,
             "vertical_position_mobile": 70,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-1": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 62,
-            "vertical_position": 14,
-            "horizontal_position_mobile": 62,
-            "vertical_position_mobile": 14,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-2": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 83,
-            "vertical_position": 75,
-            "horizontal_position_mobile": 83,
-            "vertical_position_mobile": 75,
             "icon_width": 32,
             "title": "Feature name",
             "content": "<p>Share useful information about your product features.</p>"
@@ -492,12 +470,11 @@
         }
       },
       "block_order": [
-        "1664424434f5b7d0e0-0",
-        "1664424434f5b7d0e0-1",
-        "1664424434f5b7d0e0-2"
+        "1664424434f5b7d0e0-0"
       ],
       "settings": {
         "full_width": true,
+        "image": "shopify://shop_images/pinterestdownloader.com-1741780318.121262.jpg",
         "title": "",
         "content": "",
         "button_text": "",
