@@ -428,6 +428,36 @@
         "product_card_mobile_text_color": "",
         "background_dots": "#FFF"
       }
+    },
+    "video_NJBXyT": {
+      "type": "video",
+      "blocks": {
+        "play_dntxxy": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_MaEN8V": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_dntxxy",
+        "heading_MaEN8V"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
@@ -440,6 +470,7 @@
     "impact-text",
     "faq",
     "174498713420fa992b",
-    "shop_the_look_ejcTNF"
+    "shop_the_look_ejcTNF",
+    "video_NJBXyT"
   ]
 }
