@@ -227,9 +227,10 @@
         "slide_NTBBzd": {
           "type": "slide",
           "settings": {
-            "navigation_label": "1960",
-            "subheading": "Subheading",
-            "title": "Heading",
+            "image": "shopify://shop_images/270_7.jpg",
+            "navigation_label": "2021",
+            "subheading": "FROM VISION TO REALITY",
+            "title": "THE CRUCIBLE",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
