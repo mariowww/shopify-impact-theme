@@ -38,6 +38,11 @@
             "show_taxes_notice": false
           }
         },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -48,16 +53,12 @@
             "size_chart_page": ""
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "selleasy_lb_upsell_addon_block_DNUAeC": {
           "type": "shopify://apps/selleasy/blocks/lb-upsell-addon-block/790c1a03-a71f-4bc1-9869-00dad526d3c2",
+          "settings": {}
+        },
+        "badges": {
+          "type": "badges",
           "settings": {}
         },
         "buy_buttons": {
@@ -112,10 +113,10 @@
         "title",
         "liquid_rcqkaA",
         "price",
-        "variant_picker",
-        "badges",
         "quantity_selector",
+        "variant_picker",
         "selleasy_lb_upsell_addon_block_DNUAeC",
+        "badges",
         "buy_buttons",
         "payment_terms",
         "separator",
