@@ -154,7 +154,7 @@
           "settings": {
             "collection": "bracelets",
             "subheading": "",
-            "title": "",
+            "title": "BRACELETS",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
@@ -168,7 +168,7 @@
           "settings": {
             "collection": "necklace",
             "subheading": "",
-            "title": "",
+            "title": "NECKLACES",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
@@ -182,7 +182,7 @@
           "settings": {
             "collection": "rings",
             "subheading": "",
-            "title": "",
+            "title": "RINGS",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
@@ -196,7 +196,7 @@
           "settings": {
             "collection": "watches",
             "subheading": "",
-            "title": "",
+            "title": "WATCHES",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
