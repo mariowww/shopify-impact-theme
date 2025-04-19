@@ -22,11 +22,19 @@
             "text": "THE AEGEAN WAY",
             "heading_tag": "h1"
           }
+        },
+        "heading_iPbrz7": {
+          "type": "heading",
+          "settings": {
+            "text": "H Õ R A E",
+            "heading_tag": "h6"
+          }
         }
       },
       "block_order": [
         "play_pFhbe6",
-        "heading_WVLLaK"
+        "heading_WVLLaK",
+        "heading_iPbrz7"
       ],
       "settings": {
         "full_width": true,
