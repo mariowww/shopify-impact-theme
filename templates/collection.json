@@ -9,6 +9,37 @@
  */
 {
   "sections": {
+    "video_nWzY9r": {
+      "type": "video",
+      "blocks": {
+        "play_pFhbe6": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_WVLLaK": {
+          "type": "heading",
+          "settings": {
+            "text": "THE AEGEAN WAY",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_pFhbe6",
+        "heading_WVLLaK"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "lg",
+        "video": "shopify://files/videos/AD-1.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "banner": {
       "type": "collection-banner",
       "disabled": true,
@@ -48,6 +79,7 @@
     }
   },
   "order": [
+    "video_nWzY9r",
     "banner",
     "main"
   ]
