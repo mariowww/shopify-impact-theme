@@ -56,6 +56,10 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "selleasy_lb_upsell_addon_block_DNUAeC": {
+          "type": "shopify://apps/selleasy/blocks/lb-upsell-addon-block/790c1a03-a71f-4bc1-9869-00dad526d3c2",
+          "settings": {}
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -111,6 +115,7 @@
         "variant_picker",
         "badges",
         "quantity_selector",
+        "selleasy_lb_upsell_addon_block_DNUAeC",
         "buy_buttons",
         "payment_terms",
         "separator",
