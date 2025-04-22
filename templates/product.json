@@ -53,8 +53,8 @@
             "size_chart_page": ""
           }
         },
-        "essential_upsell_frequently_bought_together_app_block_akHCJw": {
-          "type": "shopify://apps/essential-upsell/blocks/frequently-bought-together-app-block/50627fd9-24fd-4250-8614-accc12826d80",
+        "selleasy_lb_upsell_addon_block_NMEaUb": {
+          "type": "shopify://apps/selleasy/blocks/lb-upsell-addon-block/790c1a03-a71f-4bc1-9869-00dad526d3c2",
           "settings": {}
         },
         "badges": {
@@ -115,7 +115,7 @@
         "price",
         "quantity_selector",
         "variant_picker",
-        "essential_upsell_frequently_bought_together_app_block_akHCJw",
+        "selleasy_lb_upsell_addon_block_NMEaUb",
         "badges",
         "buy_buttons",
         "payment_terms",
