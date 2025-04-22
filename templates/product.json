@@ -53,8 +53,8 @@
             "size_chart_page": ""
           }
         },
-        "selleasy_lb_upsell_addon_block_DNUAeC": {
-          "type": "shopify://apps/selleasy/blocks/lb-upsell-addon-block/790c1a03-a71f-4bc1-9869-00dad526d3c2",
+        "essential_upsell_app_block_C6Ah3T": {
+          "type": "shopify://apps/essential-upsell/blocks/app-block/50627fd9-24fd-4250-8614-accc12826d80",
           "settings": {}
         },
         "badges": {
@@ -115,7 +115,7 @@
         "price",
         "quantity_selector",
         "variant_picker",
-        "selleasy_lb_upsell_addon_block_DNUAeC",
+        "essential_upsell_app_block_C6Ah3T",
         "badges",
         "buy_buttons",
         "payment_terms",
