@@ -9,11 +9,6 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-not-found",
-      "disabled": true,
-      "settings": {}
-    },
     "video_9Q6gpB": {
       "type": "video",
       "blocks": {
@@ -43,10 +38,15 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "main": {
+      "type": "main-not-found",
+      "disabled": true,
+      "settings": {}
     }
   },
   "order": [
-    "main",
-    "video_9Q6gpB"
+    "video_9Q6gpB",
+    "main"
   ]
 }
