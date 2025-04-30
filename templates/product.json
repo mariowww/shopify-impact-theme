@@ -73,10 +73,6 @@
             "payment_button_text_color": ""
           }
         },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -119,7 +115,6 @@
         "selleasy_lb_upsell_addon_block_NMEaUb",
         "badges",
         "buy_buttons",
-        "payment_terms",
         "separator",
         "description",
         "collapsible_text_XxFJmQ",
