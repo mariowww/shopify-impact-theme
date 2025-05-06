@@ -36,7 +36,7 @@
           "type": "button",
           "settings": {
             "style": "fill",
-            "size": "lg",
+            "size": "base",
             "text": "SHOP NOW",
             "url": "",
             "background": "",
@@ -55,7 +55,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "fill",
+        "image_size": "md",
         "image": "shopify://shop_images/Old_money_outfit.jpg",
         "mobile_image": "shopify://shop_images/Old_money_outfit.jpg",
         "mobile_text_position": "place-self-center text-center",
