@@ -303,6 +303,7 @@
     },
     "featured_collection_UtaFzA": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "Featured collection",
       "settings": {
         "collection": "",
