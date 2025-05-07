@@ -106,11 +106,6 @@
         "text_color": ""
       }
     },
-    "main": {
-      "type": "main-not-found",
-      "disabled": true,
-      "settings": {}
-    },
     "featured_collection_LfqwUA": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -331,15 +326,20 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "main": {
+      "type": "main-not-found",
+      "disabled": true,
+      "settings": {}
     }
   },
   "order": [
     "image_with_text_overlay_atb9td",
     "rich_text_6aDikt",
-    "main",
     "featured_collection_LfqwUA",
     "collection_list_ibczRz",
     "faq_ngJTmV",
-    "featured_collection_UtaFzA"
+    "featured_collection_UtaFzA",
+    "main"
   ]
 }
