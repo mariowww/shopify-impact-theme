@@ -168,6 +168,34 @@
             "overlay_opacity": 30
           }
         },
+        "collection_PBFk94": {
+          "type": "collection",
+          "settings": {
+            "collection": "tops",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_NnFmGm": {
+          "type": "collection",
+          "settings": {
+            "collection": "polos",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection_B8dpTt": {
           "type": "collection",
           "settings": {
@@ -186,21 +214,8 @@
         "collection_YYP6gp": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_PBFk94": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
+            "collection": "shorts",
+            "image": "shopify://shop_images/Sea7b7a89bfa1410aa4776f9090549159Q.webp",
             "subheading": "",
             "title": "",
             "url": "",
@@ -215,9 +230,10 @@
       "block_order": [
         "collection_hhwy8D",
         "collection_qD7Qig",
+        "collection_PBFk94",
+        "collection_NnFmGm",
         "collection_B8dpTt",
-        "collection_YYP6gp",
-        "collection_PBFk94"
+        "collection_YYP6gp"
       ],
       "name": "Collection list",
       "settings": {
