@@ -65,6 +65,47 @@
         "overlay_opacity": 30
       }
     },
+    "rich_text_6aDikt": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_UCRV8W": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_jM7FBB": {
+          "type": "heading",
+          "settings": {
+            "text": "OLD MONEY FOR THE MODERN MAN",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_iewKmQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>We believe elegance is for everyone. Explore our collection of timeless pieces crafted to elevate your style.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_UCRV8W",
+        "heading_jM7FBB",
+        "richtext_iewKmQ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-not-found",
       "disabled": true,
@@ -169,6 +210,7 @@
   },
   "order": [
     "image_with_text_overlay_atb9td",
+    "rich_text_6aDikt",
     "main",
     "featured_collection_LfqwUA",
     "collection_list_ibczRz"
