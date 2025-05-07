@@ -305,6 +305,32 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "featured_collection_UtaFzA": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "<h2><strong>SHOP THE LOOK</strong></h2>",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -313,6 +339,7 @@
     "main",
     "featured_collection_LfqwUA",
     "collection_list_ibczRz",
-    "faq_ngJTmV"
+    "faq_ngJTmV",
+    "featured_collection_UtaFzA"
   ]
 }
